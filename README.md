@@ -1,24 +1,24 @@
 # Web Dev Starter Code
 
+Author: Tyler Fernandez
+Date: April 2, 2025
+
 ## Overview
 
-TODO: Write a project description
+This project is a simple inventory app where you can add items to a database with their ID, Name, and Price.
+It then loads onto the table, where the user can delete items from the database.
+The button at the top loads all items from the database.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+I used the following to complete this assignment:
 
-A simple bulleted list below is sufficient. For example:
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Network_requests
+
+https://www.w3schools.com/cssref/css_websafe_fonts.php
+
+https://www.color-hex.com/
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
